@@ -1,5 +1,8 @@
-<img src="https://qn.antdv.com/vue.png" width="120" height="120"/>
-<img src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg" width="120" height="120"/>
+<div>
+  <img src="https://qn.antdv.com/vue.png" width="120" height="120"/>
+  <img src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg" width="120" height="120"/>
+
+</div>
 
 # [Vue](https://vuejs.org/) & [Ant Design](https://2x.antdv.com/docs/vue/introduce/) demo App
 
