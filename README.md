@@ -1,4 +1,11 @@
-# test-ant2
+<img src="https://qn.antdv.com/vue.png" width="120" height="120"/>
+<img src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg" width="120" height="120"/>
+
+# [Vue](https://vuejs.org/) & [Ant Design](https://2x.antdv.com/docs/vue/introduce/) demo App
+
+Features
+* Vue 3 with options AI
+* Ant Design 2
 
 ## Project setup
 ```
@@ -24,6 +31,3 @@ npm run test:unit
 ```
 npm run lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
